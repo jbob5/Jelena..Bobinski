@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "JelenaBobinski";
+    src:url("JelenaBobinski.ttf");
+	}
+h1{
+	font-family: JelenaBobinski;
+	color:black;
+	
